@@ -67,7 +67,7 @@ print("{:.2f}".format(inf_matrix))
 
 ### Infinity Norm of a Matrix
 
-![Uploading m10.png…]()
+![m10](https://github.com/Balaji-Jothiramalingam/Norm-of-a-matrix/assets/114234865/1a2afe35-17af-47ed-a874-05fcd4e701ab)
 
 
 ## Result
